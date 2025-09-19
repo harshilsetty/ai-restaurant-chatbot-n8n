@@ -50,7 +50,7 @@ Create a Google Sheet (Hotel Management System - HMS) with **3 tabs**:
 ---
 
 ## 🎥 Demo
-👉 [Add your demo video link here once uploaded]  
+👉 [[DEMO]](https://www.linkedin.com/posts/harshil-somisetty_n8n-automation-ai-activity-7374776224893607936-6NtK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFFrjX8B7lg4xKD8nqEJmkF_1P5lZ-RKwtE)  
 
 ---
 
